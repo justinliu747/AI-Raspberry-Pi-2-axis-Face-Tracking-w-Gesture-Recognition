@@ -28,3 +28,5 @@ Integrated computer vision + embedded ML + systems design
 Collected & trained on a custom dataset, deployed on-device
 
 Proved that with smart optimizations, a Raspberry Pi can run real-time AI workloads for education and automation
+
+Video Demo: https://youtu.be/T8Q6L3_tIcw
